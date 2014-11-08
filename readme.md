@@ -6,6 +6,7 @@
 
 CodeSchule is originally from Finland (by name [Koodikoulu](http://koodikoulu.fi/)). The original father of the idea and the principal of the 'Koodikoulu' is Juha Paananen ([@raimohanska](https://github.com/raimohanska)). We are greatful for him to open sourcing this idea and sharing the joy of programming to children all over the world!
 
+To see what CodeSchule is all about see this [video] (http://vimeo.com/111285072).
 
 ## Information
 To find information about future "CodeSchule" in Germany, please see [Codeschule page](http://codeschule.org/de/), Twitter and Facebook with #codeschule. You can also organize CodeSchule yourself! 
